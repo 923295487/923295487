@@ -26,6 +26,7 @@ local TimedCallFunc =
 	-- ["22:00"] = {name = "1v1结算", call = function () Send1v1PVPRankAward() end},
 	-- ["23:00"] = {name = "玛雅神殿(跨服)结束", call = function () OnMayaBoosExit() OnYongshengBossCome() end},
 	-- ["23:59"] = {name = "全局变量数据重置", call = function () OnGGlobalNewDay() end},
+	adasdasdas
 }
 
 function AddPlayerSomeValue()
